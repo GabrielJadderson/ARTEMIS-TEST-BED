@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Test_Beds/Bed_Construction/scenes/construction.unity
+  isLoaded: 1
+  isActive: 1
