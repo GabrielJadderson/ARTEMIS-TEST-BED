@@ -1,3 +1,3 @@
 # ARTEMIS-TEST-BED
-![](https://giant.gfycat.com/HeartySmoothDogfish.gif)
+![](https://thumbs.gfycat.com/HeartySmoothDogfish-size_restricted.gif)
 
